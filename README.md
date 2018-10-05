@@ -1,4 +1,4 @@
-# Landing-Page---Direct-Create
+# Landing Page: DirectCreate
 This is a landing page of DirectCreate. It has some amazing designs requiring great efforts to design.
 
 Instructions:
